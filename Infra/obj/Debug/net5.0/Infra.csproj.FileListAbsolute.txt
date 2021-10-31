@@ -1,0 +1,12 @@
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\tadri\source\repos\CursoDotNet\Infra\bin\Debug\net5.0\Infra.deps.json
+C:\Users\tadri\source\repos\CursoDotNet\Infra\bin\Debug\net5.0\Infra.dll
+C:\Users\tadri\source\repos\CursoDotNet\Infra\bin\Debug\net5.0\ref\Infra.dll
+C:\Users\tadri\source\repos\CursoDotNet\Infra\bin\Debug\net5.0\Infra.pdb
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.dll
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\ref\Infra.dll
+C:\Users\tadri\source\repos\CursoDotNet\Infra\obj\Debug\net5.0\Infra.pdb

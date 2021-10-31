@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fuj7Q0pNUZdu+MOLke6zWk/tx+lKCYQH2mhZCSjSJMMD7VDzbovkfzCX/NQpaZNp+N8HLeLhDx9Pi0c0LNDIkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadri\\source\\repos\\CursoDotNet\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tadri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tadri\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
